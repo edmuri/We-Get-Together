@@ -40,15 +40,21 @@ We Get Together is a tool for friends to find a common gathering place. Using se
 
 ## UI
 
-<div align="center" style="display:flex; gap:50px; justify-content:center;">
-    <div>
-    <h4>Landing Page</h4>
-    <img src="./public/Demo2.gif">
-    </div>
-    <div>
-    <h4>Share Location</h4>
-    <img src="./public/Demo1.gif">
-    </div>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <h4>Landing Page</h4>
+        <img src="./public/Demo2.gif" width="300">
+      </td>
+      <td align="center">
+        <h4>Share Location</h4>
+        <img src="./public/Demo1.gif" width="300">
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ## How to use
