@@ -40,22 +40,21 @@ We Get Together is a tool for friends to find a common gathering place. Using se
 
 ## UI
 
-<div align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <strong>Landing Page</strong><br>
+      <img src="./public/Demo2.gif" width="300">
+    </td>
+    <td align="center" width="20"></td> <!-- spacer -->
+    <td align="center">
+      <strong>Share Location</strong><br>
+      <img src="./public/Demo1.gif" width="300">
+    </td>
+  </tr>
+</table>
 
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <h4>Landing Page</h4>
-        <img src="./public/Demo2.gif" width="300">
-      </td>
-      <td align="center">
-        <h4>Share Location</h4>
-        <img src="./public/Demo1.gif" width="300">
-      </td>
-    </tr>
-  </table>
 
-</div>
 
 ## How to use
 ```bash
