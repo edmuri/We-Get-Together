@@ -42,7 +42,7 @@ We Get Together is a tool for friends to find a common gathering place. Using se
 
 <div align="center">
 
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center">
         <h4>Landing Page</h4>
