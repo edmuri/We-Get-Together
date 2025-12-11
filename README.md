@@ -38,6 +38,19 @@ We Get Together is a tool for friends to find a common gathering place. Using se
 + Firebase anon. auth implemented so user stays in session on refresh
 + Input validation: only a 6-digit join code is allowed, nickname must be validated as well
 
+## UI
+
+<div align="center" style="display:flex; gap:50px; justify-content:center;">
+    <div>
+    <h4>Landing Page</h4>
+    <img src="./public/Demo2.gif">
+    </div>
+    <div>
+    <h4>Share Location</h4>
+    <img src="./public/Demo1.gif">
+    </div>
+</div>
+
 ## How to use
 ```bash
 git clone https://github.com/edmuri/We-Get-Together.git
@@ -48,6 +61,6 @@ npm run setup
 
 ## Contributors
 [![Eduardo](https://img.shields.io/badge/Eduardo_Murillo-313030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edmuri)
-[![Florianne](https://img.shields.io/badge/Florianne_Che-90407E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheetodustflori)
-[![Kaito](https://img.shields.io/badge/Kaito_Sekiya-B6D0E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Givikap)
-[![Naga](https://img.shields.io/badge/Naga_Maddipudi-9A290F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagamaddipudi)
+[![Florianne](https://img.shields.io/badge/Florianne_Che-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cheetodustflori)
+[![Kaito](https://img.shields.io/badge/Kaito_Sekiya-800000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Givikap)
+[![Naga](https://img.shields.io/badge/Naga_Maddipudi-F8C8DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagamaddipudi)
