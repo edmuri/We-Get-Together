@@ -1,0 +1,18 @@
+repos:
+    - repo: https://github.com/pre-commit/pre-commit-hooks
+      rev: v6.0.0
+      hooks:
+          - id: check-yaml
+          - id: detect-private-key
+          - id: end-of-file-fixer
+          - id: mixed-line-ending
+          - id: trailing-whitespace
+
+    - repo: local
+      hooks:
+          - id: biome-check
+            name: biome check
+            entry: npx @biomejs/biome check --write --files-ignore-unknown=true --no-errors-on-unmatched
+            language: system
+            types: [text]
+            files: "\\.(jsx?|tsx?|c(js|ts)|m(js|ts)|d\\.(ts|cts|mts)|jsonc?)$"
