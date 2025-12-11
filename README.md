@@ -22,6 +22,8 @@
 ## What is We Get Together?
 We Get Together is a tool for friends to find a common gathering place. Using session codes, users can join a shared session with real-time updates, share their unique locations, and calculate a midpoint where everyone can meet. Users will get recommended a new restauraunt to try that makes it fair for everyone to meet up at!
 
+Try it out here: https://cs484-efkn.web.app/
+
 ## Features
 + **Calculate your midpoint:** Calculate your midpoint with the click of just one button! Using our sophisticated calculations, we'll compute a meeting spot using the locations of all the joined users.
 + **Ease of Access to Route:** Once the midpoint is calculated, we'll generate a route from your address to the midpoint so you can just click-and-go!
